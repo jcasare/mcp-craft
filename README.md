@@ -7,6 +7,8 @@ CLI toolkit for scaffolding, testing, and managing [MCP (Model Context Protocol)
 
 Build MCP servers in seconds, not hours.
 
+![mcp-craft demo](demo.gif)
+
 ## What is MCP?
 
 MCP is like a **USB port for AI apps**. It's an open protocol that lets AI applications (Claude, Cursor, VS Code Copilot, Gemini, Codex) connect to external tools and data sources through a standard interface.
